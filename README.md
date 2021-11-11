@@ -37,6 +37,7 @@ pytest .
 [Roman Agureev](https://github.com/romanagureev) – Developer, Analyst 
 
 Anton Kulikov – Developer, Analyst
+
 Andrei Titov – Developer
 
 [Mark Nagovitsin](https://github.com/Marchello00) – Developer  
