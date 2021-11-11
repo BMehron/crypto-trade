@@ -42,4 +42,7 @@ pytest .
 [Aidar Valiev](https://github.com/AidarValiev) – Analyst  
 [Emil Alkin](https://github.com/AlkinEmil) – Analyst  
 
+Anton Kulikov – Developer, Analyst
+Andrei Titov – Developer
+
 [Ivan Makeev](https://github.com/Macket) – Supervisor  
