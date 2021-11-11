@@ -32,12 +32,17 @@ pytest .
 ## Authors
 [Mehron Bobohonov](https://github.com/BMehron) – Analyst  
 [Yulian Gilyazev](https://github.com/yulian-gilyazev) – Analyst
+
 [Alex Gryzlov](https://github.com/alexgryzlov) – Developer, Analyst  
 [Roman Agureev](https://github.com/romanagureev) – Developer, Analyst 
+
 [Anton Kulikov] – Developer, Analyst
 [Andrei Titov] – Developer
+
 [Mark Nagovitsin](https://github.com/Marchello00) – Developer  
-[Denis Shpakovski](https://github.com/Denisson001) – Developer   
+[Denis Shpakovski](https://github.com/Denisson001) – Developer
+
 [Aidar Valiev](https://github.com/AidarValiev) – Analyst  
 [Emil Alkin](https://github.com/AlkinEmil) – Analyst  
+
 [Ivan Makeev](https://github.com/Macket) – Supervisor  
